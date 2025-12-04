@@ -23,5 +23,3 @@
   - Connected tools
 - flutter create cyberlog 
 - flutter run
-
-![img.png](img.png)
