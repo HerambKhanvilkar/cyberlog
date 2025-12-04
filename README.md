@@ -24,4 +24,3 @@
 - flutter create cyberlog 
 - flutter run
 
-https://github.com/HerambKhanvilkar/cyberlog/blob/0deed245735597b67e62182a36bfba382c2cba18/WhatsApp%20Image%202025-12-04%20at%2014.50.52_80ae6463.jpg
