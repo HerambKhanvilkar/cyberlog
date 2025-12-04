@@ -1,16 +1,25 @@
-# cyberlog
+### native vs cross platform
+- Native apps are built specifically for Android (Kotlin) or iOS (Swift), whereas cross-platform apps (Flutter) run on both using a single codebase.
+- Flutter also allows development for Web, Windows, macOS, and Linux.
+### Hot Reload 
+- Does not compile the entire program again — it only updates the changes instantly.
 
-A new Flutter project.
+### Widgets 
+- They help in making beautiful UI 
+- There are 2 types of Widgets:
+    - Stateless Widgets :- UI that does not change 
+    - Stateful Widgets :- UI that updates dynamically 
+  - Common Widgets
+    - Scaffold 
+    - AppBar
+    - Text
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps to install flutter 
+- Download from flutter.dev 
+  - flutter doctor
+  - Flutter SDK
+  - Android SDK
+  - Device/emulator
+  - Connected tools
+- flutter create cyberlog 
+- flutter run
