@@ -1,16 +1,27 @@
-# evenoddchecker
+### JIT vs AOT Compilation (Core Principles)
+JIT (Just-In-Time Compilation):
+    - Code is compiled during runtime.
+    - Faster development (hot reload works). 
+    - Common in Flutter debug mode.
 
-A new Flutter project.
+AOT (Ahead-Of-Time Compilation):
+    - Code is compiled before execution.
+    - Produces optimized machine code.
+    - Used in Flutter release mode for high performance.
 
-## Getting Started
+### Dart Conditionals Used for Even/Odd Logic
+Dart uses simple if–else statements to check conditions.
+if (num % 2 == 0) {
+   result = "The number $num is Even";
+   }
+else {
+   result = "The number $num is Odd";
+   }
+Explaination
+   - % gives the remainder
+   - == 0 determines even number
+   - else → odd number
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### String Interpolation for Output Formatting
+Dart allows embedding variables directly into strings using $variable.
+result = "The number $number is EVEN ✔";
