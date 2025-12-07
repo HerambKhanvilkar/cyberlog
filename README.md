@@ -24,4 +24,4 @@ Explaination
 
 ### String Interpolation for Output Formatting
 Dart allows embedding variables directly into strings using $variable.
-result = "The number $number is EVEN ✔";
+result = "The number $number is EVEN";
