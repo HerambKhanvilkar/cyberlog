@@ -31,3 +31,5 @@
   );
   }).toList(),
 - map() automatically loops through the list and helps build multiple widgets efficiently this does not repeat code.
+
+- ![WhatsApp Image 2025-12-10 at 17 26 53_1ecdce74](https://github.com/user-attachments/assets/65d412da-eef5-4ea0-800c-89e3f211c57e)
