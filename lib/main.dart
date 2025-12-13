@@ -33,7 +33,7 @@ class DashboardScreen extends StatelessWidget {
 
       body: GridView.count(
         crossAxisCount: 2,
-        childAspectRatio: 2.5, // 🔥 MUCH smaller height
+        childAspectRatio: 2.5, 
         padding: const EdgeInsets.all(10),
         crossAxisSpacing: 10,
         mainAxisSpacing: 10,
