@@ -1,16 +1,7 @@
-# session9_portfolio_assignment
+<img width="565" height="742" alt="image" src="https://github.com/user-attachments/assets/0390eaeb-b8a1-4e22-92c5-e66cc2b14f68" />
 
-A new Flutter project.
+![WhatsApp Image 2025-12-21 at 3 54 03 PM](https://github.com/user-attachments/assets/466257bb-4729-41f9-9f90-d5fde611d233)
 
-## Getting Started
+running the code again 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2025-12-21 at 3 54 03 PM](https://github.com/user-attachments/assets/7f6e3387-1974-4207-9149-d3cce8db2cea)
