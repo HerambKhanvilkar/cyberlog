@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468640782830",
+    "project_id": "cyberlog-230ff",
+    "storage_bucket": "cyberlog-230ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468640782830:android:b055008e9bd70fedda96ff",
+        "android_client_info": {
+          "package_name": "com.example.session13_classroom_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468640782830-2i0e7t2rg0rekajhvgnto1grkqeba3p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXImQu8LV7YOte449wAAqxddF0837fRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468640782830-2i0e7t2rg0rekajhvgnto1grkqeba3p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
